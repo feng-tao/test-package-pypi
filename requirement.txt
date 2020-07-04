@@ -1,0 +1,1 @@
+test-repo @ git+ssh://git@github.com/feng-tao/test-package-pypi.git@d7875c4a8dd8ff876921cb622ce87f4f3fe8f0b1
